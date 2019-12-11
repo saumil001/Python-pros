@@ -1,3 +1,12 @@
+# For better version of instagram bot use your email to the mail method so
+# that you will get notified when value reached at your point.
+# Found interesting point :- I used headless argument for directly get follower
+# of your account to your terminal If you want to open chrome than remove headless
+# argument and rerun program.
+# Extra features:- on line number 44 story setting scrapped so if you uncomment
+# that line than you will be watching you stories back to back without touching
+# your laptop or pc.
+
 from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
 import time
